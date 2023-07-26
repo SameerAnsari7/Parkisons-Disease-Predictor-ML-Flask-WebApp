@@ -7,11 +7,10 @@ This is a web application that uses Machine Learning (ML) to predict Parkinson's
 ## Table of Contents
 
 - [Demo](#demo)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
-- [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Demo
 
@@ -33,7 +32,11 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 3.Install the dependencies:
 pip install -r requirements.txt
 
-
+## Usage
+1. Start the Flask development server:
+  python app.py
+2. Open your web browser and visit http://localhost:5000 to access the web application.
+3. Use the interface to input the required information, and the ML model will make predictions accordingly.
 
 ## Data
 
