@@ -15,6 +15,7 @@ This is a web application that uses Machine Learning (ML) to predict Parkinson's
 ## Demo
 
 video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvOSEGD8eOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 image
 
